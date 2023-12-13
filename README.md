@@ -9,10 +9,9 @@ multiple devices at once
 
 ## todo
 
-- [ ] OpenCV backend
+- [x] OpenCV backend
   - [x] implementation
-  - [ ] sound (SDL2)
-  - [ ] timer
+  - [x] timer
 - [ ] 3DS backend
 - [ ] Switch backend
 - [ ] iOS backend? (maybe use Shortcuts)
